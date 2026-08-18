@@ -40,7 +40,7 @@
 
 #print(f"Class: {cl}")      
 
-price=3333.333444444444444444444444444444444444
+# price=3333.333444444444444444444444444444444444
 #print(f"the price is :${price:.2f}")
 #print(f"the price is :${price:10.2f}")
 #print(f"the price is :${price:<10.2f}")
@@ -54,3 +54,27 @@ price=3333.333444444444444444444444444444444444
 
 
 
+s = "helloworld"
+
+q = ["o", "l", "j", "h"]
+
+hash = [0] * 26
+
+# Count each character
+for i in s:
+    ascii = ord(i)
+    index = ascii - 97
+    hash[index] += 1
+
+# Example: find how many times "o" occurs
+# ord("o") = 111
+# index = 111 - 97 = 14
+# So hash[14] stores the count of "o"
+
+print("Number of times o occurs:", hash[14])
+
+# Find frequency of characters in q
+for i in q:
+    ascii = ord(i)
+    index = ascii - 97
+    print(i, hash[index])
