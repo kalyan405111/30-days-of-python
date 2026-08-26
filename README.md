@@ -6,7 +6,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Progress](https://img.shields.io/badge/Progress-0%2F95%20topics-blue?style=for-the-badge)](#-progress-tracker)
-[![Course](https://img.shields.io/badge/Course-Bro%20Code-orange?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BroCodez)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 [![GitHub](https://img.shields.io/badge/GitHub-kalyan405111-181717?style=flat-square&logo=github)](https://github.com/kalyan405111)
@@ -19,8 +18,6 @@
 ## 📖 About This Repo
 
 This repository documents my daily practice as I work through Python — starting from core syntax and building up to object-oriented programming, file handling, and small projects. Each topic below is checked off as I complete it, along with code and notes captured along the way.
-
-**Reference course:** [Bro Code — Python Full Course for Beginners](https://www.youtube.com/@BroCodez) (~95 topics · ~12.5 hours)
 
 ## 🎯 Goals
 
